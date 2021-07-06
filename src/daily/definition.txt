@@ -1,3 +1,12 @@
 1. Gray Code
 LeetCode Link: https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/
 
+2. Find K Closest Elements
+LeetCode Link: https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3799/
+
+3. Max Sum of Rectangle No Larger Than K
+LeetCode Link: https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3801/
+
+5. Reshape the Matrix
+Leetcode Link: https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3803/
+
