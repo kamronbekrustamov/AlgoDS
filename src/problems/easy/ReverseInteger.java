@@ -1,9 +1,6 @@
 package problems.easy;
 
 public class ReverseInteger {
-    public static void main(String[] args) {
-        System.out.println(reverse(-1463847412));
-    }
     public static int reverse(int x) {
         int result = 0;
         while (x != 0) {
